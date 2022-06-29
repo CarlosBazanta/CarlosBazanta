@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Carlos 
+### Hola a todos 👋, Yo soy Carlos
 
 <!--
 **CarlosBazanta/CarlosBazanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
