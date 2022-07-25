@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Carlos 
 ### Hola a todos 👋, Yo soy Carlos
 
+![me](https://user-images.githubusercontent.com/78313652/180818248-2ab15972-2fb2-4543-9518-2ab05dbccb46.png)
+
 <!--
 **CarlosBazanta/CarlosBazanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
